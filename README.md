@@ -43,7 +43,7 @@ access_token_secret = c8xilxmlijaosd9u0x98jos
 now run tweet2polarity with your desired #hashtags and timeframe like:
 
 ```
-python tweet2polarity.py -t dog cat fish -s 60
+python tweet2polarity.py -t dog cat fish -s 1
 ```
 
 will give something like:
