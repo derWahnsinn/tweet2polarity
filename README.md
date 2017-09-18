@@ -51,6 +51,3 @@ will give something like:
 ![alt text](http://www.true-binary.com/wp-content/uploads/2017/09/tweet2polarity.png)
 
 
-0 1 0
-0 0 1
-1 1 1
